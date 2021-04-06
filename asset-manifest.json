@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b7f80d6b.chunk.css",
-    "main.js": "/static/js/main.a6e65990.chunk.js",
-    "main.js.map": "/static/js/main.a6e65990.chunk.js.map",
+    "main.js": "/static/js/main.9e79af6e.chunk.js",
+    "main.js.map": "/static/js/main.9e79af6e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.249baf24.js",
     "runtime-main.js.map": "/static/js/runtime-main.249baf24.js.map",
     "static/css/2.3e090e36.chunk.css": "/static/css/2.3e090e36.chunk.css",
-    "static/js/2.8ecb77e6.chunk.js": "/static/js/2.8ecb77e6.chunk.js",
-    "static/js/2.8ecb77e6.chunk.js.map": "/static/js/2.8ecb77e6.chunk.js.map",
+    "static/js/2.19dac0f0.chunk.js": "/static/js/2.19dac0f0.chunk.js",
+    "static/js/2.19dac0f0.chunk.js.map": "/static/js/2.19dac0f0.chunk.js.map",
     "static/js/3.465ff0a5.chunk.js": "/static/js/3.465ff0a5.chunk.js",
     "static/js/3.465ff0a5.chunk.js.map": "/static/js/3.465ff0a5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.3e090e36.chunk.css.map": "/static/css/2.3e090e36.chunk.css.map",
     "static/css/main.b7f80d6b.chunk.css.map": "/static/css/main.b7f80d6b.chunk.css.map",
-    "static/js/2.8ecb77e6.chunk.js.LICENSE.txt": "/static/js/2.8ecb77e6.chunk.js.LICENSE.txt",
+    "static/js/2.19dac0f0.chunk.js.LICENSE.txt": "/static/js/2.19dac0f0.chunk.js.LICENSE.txt",
     "static/media/Resurrection.a7cc7e5a.svg": "/static/media/Resurrection.a7cc7e5a.svg",
     "static/media/arrowDown.7f49e23e.svg": "/static/media/arrowDown.7f49e23e.svg",
     "static/media/arrowDownBlack.b7343f82.svg": "/static/media/arrowDownBlack.b7343f82.svg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.249baf24.js",
     "static/css/2.3e090e36.chunk.css",
-    "static/js/2.8ecb77e6.chunk.js",
+    "static/js/2.19dac0f0.chunk.js",
     "static/css/main.b7f80d6b.chunk.css",
-    "static/js/main.a6e65990.chunk.js"
+    "static/js/main.9e79af6e.chunk.js"
   ]
 }
